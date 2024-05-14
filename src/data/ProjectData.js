@@ -37,7 +37,7 @@ export const ProjectList = [
     description:
       "Argent Bank est une application web React utilisant le gestionnaire de State Redux avec un système d'authentification des utilisateurs.",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB" , "Swagger"],
-    github_url: "",
+    github_url: "https://github.com/Terekdev/ArgentBank",
     demo_url: "",
   },
   {
